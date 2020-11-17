@@ -1,7 +1,7 @@
 {
-  "version": "0.1.2",
-  "version_des": "优化日志，收集打印错误信息",
+  "version": "0.1.3",
+  "version_des": "修复打印",
   "force": false,
   "download_web_url_china": "http://114.67.170.235:5014/releases/stable/default",
-  "download_web_url": "https://github.com/hphuar/xprinter/releases/download/v0.1.2/XPrinter_0.1.2.exe"
+  "download_web_url": "https://github.com/hphuar/xprinter/releases/download/v0.1.3/XPrinter_0.1.3.exe"
 }
