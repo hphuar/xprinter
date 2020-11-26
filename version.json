@@ -1,6 +1,6 @@
 {
-  "version": "0.1.5",
-  "version_des": "增加模板",
+  "version": "0.1.6",
+  "version_des": "fix bug",
   "force": false,
   "download_web_url_china": "http://114.67.170.235:5014/releases/stable/default",
   "download_web_url": "https://github.com/hphuar/xprinter/releases/download/v0.1.5/XPrinter_0.1.5.exe"
