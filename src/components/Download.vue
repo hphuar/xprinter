@@ -3,7 +3,7 @@
     <h1>{{ msg }}</h1>
     <el-button type="info" :disabled="!initSuccess" @click="onClickDownload">Download</el-button>
     <p></p>
-    <span v-if="initSuccess">最新版本：{{ versionInfo.version }}</span>
+    <span v-if="initSuccess">Last Version：{{ versionInfo.version }}</span>
   </div>
 </template>
 
